@@ -1,20 +1,20 @@
-body{
-    background-color: bisque;
+body {
+  background-color: bisque;
 }
 
-.img{
-    border-radius: 50cm;
-    width: 500px;
-    height: 500px;
+.img {
+  border-radius: 50cm;
+  width: 500px;
+  height: 500px;
 }
 
-.head{
-    text-align: center;
-    margin: 20px;
+.head {
+  text-align: center;
+  margin: 20px;
 }
 
-div{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    cursor: crosshair;
-    border-top: 7px dotted salmon;
+div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: crosshair;
+  border-top: 7px dotted #00bcd4;
 }
